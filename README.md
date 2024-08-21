@@ -1,6 +1,8 @@
+## Introdução:
+
 Modelo supervisionado de machine learning que pode ser utilizado tanto para classificação, isto é, rotular os dados; quanto para regressão, ou seja, aproximar valores.
 
-## Características
+## Características:
 
 - Simples
 - Interpretável
@@ -9,7 +11,7 @@ Modelo supervisionado de machine learning que pode ser utilizado tanto para clas
 
 Por conta disso é um ótimo benchmark
 
-## Algoritmo
+## Algoritmo:
 
 - Passo 1:
     Definir um valor para K
@@ -23,7 +25,7 @@ Por conta disso é um ótimo benchmark
 - Passo 4:
     Atribuir o valor/classe ao ponto de interesse conforme cálculo do Passo 3.
 
-  ## Definição do Problema
+## Definição do Problema:
 
 ### Dados
 Os dados abaixo são referentes ao cadastro de clientes de uma empresa de investimentos com suas respectivas carteira de investimentos, que indica se esse cliente tem o perfil de investidor **Conservador**, **Moderado** ou **Agressivo**. O nosso intuito é, a partir do investimento de alguns clientes que já tem um perfil definido, estimar esse perfil para aqueles que ainda não estão classificado, afim de oferecer novos produtos que sejam mais adequados a eles.
