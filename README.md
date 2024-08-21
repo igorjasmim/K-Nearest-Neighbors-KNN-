@@ -33,3 +33,6 @@ Os dados abaixo são referentes ao cadastro de clientes de uma empresa de invest
 Os dados abaixo seguem o seguinte padrão:
 
 [**CPF**: INT, **Perfil Do Investidor**: STRING, **Carteira de Investimento**: TUPLA]
+
+![image](https://github.com/user-attachments/assets/8b1f2d73-8978-4d20-9c12-904442a9c170)
+
