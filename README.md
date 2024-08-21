@@ -34,5 +34,13 @@ Os dados abaixo seguem o seguinte padrão:
 
 [**CPF**: INT, **Perfil Do Investidor**: STRING, **Carteira de Investimento**: TUPLA]
 
+### Caso queira medir a distância utilizando a distância euclidiana
+
+Como medir a distância euclidiana:
+
 ![image](https://github.com/user-attachments/assets/8b1f2d73-8978-4d20-9c12-904442a9c170)
+
+### Fórmula da distância euclidiana:
+
+![image](https://github.com/user-attachments/assets/2614dabe-ba7b-4318-9fb0-cf2c0f55818d)
 
